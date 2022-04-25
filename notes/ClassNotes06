@@ -9,6 +9,7 @@ We cannot proceed until it is handled
 2. Javascript alerts/ browser alerts - we can handle these alerts by using switchTo method
                                         we cannot inspect
 3. Windows based alerts - we cannot handle with Selenium
+robot class or third party tools
 
 Types of JS alerts
 1. Simple alert - click ok
