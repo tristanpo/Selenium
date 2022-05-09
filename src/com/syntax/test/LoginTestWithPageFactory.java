@@ -1,8 +1,11 @@
 package com.syntax.test;
 
+
+
+import com.syntax.testBase.BaseClass;
 import com.syntax.pages.DashboardPage;
 import com.syntax.pages.LoginPageWithpageFactory;
-import com.syntax.testBase.BaseClass;
+
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;

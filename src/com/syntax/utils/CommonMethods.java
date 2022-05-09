@@ -1,5 +1,6 @@
 package com.syntax.utils;
 
+
 import com.syntax.testBase.BaseClass;
 import org.openqa.selenium.NoSuchFrameException;
 import org.openqa.selenium.WebElement;
